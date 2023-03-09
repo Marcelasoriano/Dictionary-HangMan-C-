@@ -1,10 +1,4 @@
-/*
-Author: Marcela Soriano Cornejo
-Course: CSCI-136
-Instructor: Genady Maryash
-Assignment: Project1D
-Hangman Project
-*/
+
 
 #include <iostream> // include input/output stream library
 #include <fstream>  // include file stream library
